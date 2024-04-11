@@ -1,5 +1,5 @@
 
-** Irish Sign Language Detection Program**
+**Irish Sign Language Detection Program**
 
 ----------
 
